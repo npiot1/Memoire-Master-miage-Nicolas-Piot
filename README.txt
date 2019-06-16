@@ -1,3 +1,11 @@
+Voici mon mémoire de master MIAGE : Comment familiariser les concepts informatiques aux enfants ?
+Il y a une version compressée (1,01Mo) et non compressée (17,4Mo)
+Les images sont moins nettes sur la version compressée
+
+Par rapport au code source le fichier maître qui fait appels aux différents fichiers et qui importe les packages est : memoire.tex
+
+---
+
 ISAE-Supaero LaTeX template for project reports
 
 
